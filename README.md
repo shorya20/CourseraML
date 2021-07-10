@@ -1,4 +1,4 @@
 # CourseraML
-Machine Learning Coursera work in MATLAB/GNU Octave
+Machine Learning Coursera work from Prof. Andrew Ng's course
 
-# ML projects done in MATLAB
+# ML projects done in MATLAB by testing and developing myself against the guidelines placed
